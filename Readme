@@ -1,0 +1,29 @@
+Java Repository
+
+This repository contains basic Java programs that I created while learning Java.
+
+Programs included
+
+Hello World
+Basic Calculator
+Fibonacci Series
+Prime Number Checker
+
+Installation
+
+Clone the repository: git clone https://github.com/your-username/java-repository.git
+Navigate to the repository: cd java-repository
+Compile the Java file: javac filename.java
+Run the program: java filename
+
+Contributing
+Contributions to this repository are welcome. To contribute, follow these steps:
+
+Fork the repository.
+Create a branch: git checkout -b branch-name
+Make your changes and commit them: git commit -m "your message"
+Push to the branch: git push origin branch-name
+Create a pull request.
+
+License
+This repository is licensed under the MIT License. See the LICENSE file for details.
