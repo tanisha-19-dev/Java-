@@ -1,0 +1,15 @@
+package Learn;
+
+import java.util.Scanner;
+public class StringConcat {
+  
+
+        System.out.println("Sum is  "+ sum );
+        System.out.println(" What is your name ?");
+        String name = S.next();
+        System.out.println("Hey! "+ name );
+
+
+
+    }
+}
